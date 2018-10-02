@@ -20,6 +20,7 @@ However you yourself don't have to be that boring and restricted.
 The application's entry point can be written in a human-readable two-liner rhyme:
 
 ![](https://static.wixstatic.com/media/2cf77c_057f63793a3342cf8f9f422d94d0fad7~mv2.png/v1/fill/w_740,h_376,al_c,usm_0.66_1.00_0.01/2cf77c_057f63793a3342cf8f9f422d94d0fad7~mv2.png)
+
 Figure 2. A main method that rhymes.
 
 
@@ -30,6 +31,7 @@ In case you have sufficient degree of freedom in your project, you should be abl
 However it happens that team members are occasionally not that receptive to a poetic code. You would need to place all the boilerplate code within the same class, which makes entry point class somewhat less laconic as illustrated in a code below:
 
 ![](https://static.wixstatic.com/media/2cf77c_63886276c3d842d4a3596636c56adf26~mv2.png/v1/fill/w_637,h_852,al_c/2cf77c_63886276c3d842d4a3596636c56adf26~mv2.png)
+
 Figure 3. Self-contained main class, rhymed entry point, and the boilerplate code.
 
 ### Consequences
